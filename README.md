@@ -38,39 +38,15 @@ Runs on 👉 http://localhost:5000
 cd ../frontend
 npm install
 npm start
-
-
 Opens 👉 http://localhost:3000
 
-📸 Screenshots / Demo
 
-👉 Open the app in two browser tabs, type in one, and watch it sync in real-time.
-(You can add screenshots here later.)
-
-Example:
-
-![Demo Screenshot](screenshot.png)
-
-📌 Project Status
-
-✅ Completed and tested successfully as part of Internship Task 3.
 
 👨‍💻 Author
 
 Chinmay Gouda
 🔗 GitHub
-
 📧 chinmaygowda65@gmail.com
 
 
 ---
-
-# 🔹 Next Steps
-1. Open `README.md` in VS Code.  
-2. Delete old content → paste this new content.  
-3. Save (`Ctrl + S`).  
-4. Push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Updated README with internship details"
-   git push
