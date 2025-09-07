@@ -57,7 +57,7 @@ Example:
 
 👨‍💻 Author
 
-Chinmay Gowda
+Chinmay Gouda
 🔗 GitHub
 
 📧 chinmaygowda65@gmail.com
